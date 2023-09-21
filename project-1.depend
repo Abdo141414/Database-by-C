@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1695321384 source:c:\users\abdelrahman\desktop\prog 1\new folder\project-1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"SDB.h"
+
+1695321384 c:\users\abdelrahman\desktop\prog 1\new folder\project-1\sdb.h
+	"STD.h"
+	"SDB.c"
+	"SDBAPP.c"
+
+1695321384 c:\users\abdelrahman\desktop\prog 1\new folder\project-1\std.h
+
+1695321384 c:\users\abdelrahman\desktop\prog 1\new folder\project-1\sdb.c
+	"SDB.h"
+
+1695321384 c:\users\abdelrahman\desktop\prog 1\new folder\project-1\sdbapp.c
+	"SDB.h"
+
